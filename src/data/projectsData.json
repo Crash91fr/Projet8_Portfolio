@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "title": "Booki - Travel Agency",
+		  "category": "Web & Mobile Application",
+		  "img": "../images/project-1.png",
+      "ProjectHeader": {
+        "title": "Code a responsive application for a travel agency  using HTML & CSS",
+        "publishDate": "Dec 03, 2024",
+        "tags": "UI / Frontend"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Booki",
+          "img": "../images/project-1.png"
+        },
+        {
+          "id": 2,
+          "title": "Booki Mobile",
+          "img": "../images/project-11.png"
+        },
+        {
+          "id": 3,
+          "title": "Booki Details",
+          "img": "../images/project-111.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Develop a responsive website for desktops, tablets, and mobiles.",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["HTML", "CSS"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "This project involved building the homepage of a travel agency using HTML and CSS. The primary goal was to create a fully responsive interface that ensures a seamless user experience across all devices—mobile, tablet, and desktop. The result was a visually consistent and user-friendly design tailored for optimal accessibility and usability."
+          }
+        ],
+      "SocialSharingHeading": "Source Code",
+		  "SocialSharing": [
+        {
+        "id": 1,
+        "name": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/Crash91fr/Projet2_Booki"
+        }
+        ]
+			},
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 4,
+            "title": "Kasa",
+            "img": "../images/project-4.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Sophie Bluel - Interior Design",
+		  "category": "Web Application",
+		  "img": "../images/project-2.png",
+      "ProjectHeader": {
+        "title": "Build an interior designer portfolio in JavaScript",
+        "publishDate": "Dec 20, 2024",
+        "tags": "UI / Frontend"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Sophie Bluel",
+          "img": "../images/project-2.png"
+        },
+        {
+          "id": 2,
+          "title": "Site Sophie Bluel mode admin",
+          "img": "../images/project-22.png"
+        },
+        {
+          "id": 3,
+          "title": "Site Sophie Bluel Details",
+          "img": "../images/project-222.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Code a portfolio application for an interior designer, featuring an admin mode.",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["JavaScript", "CSS"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "The goal of this project was to develop a stylish and professional portfolio website for an interior designer to showcase her work, using JavaScript and CSS. In addition to creating a sleek, visually appealing front-end, we implemented an admin interface that allows her to easily manage and update her projects."
+          }
+        ],
+        "SocialSharingHeading": "Source Code",
+        "SocialSharing": [
+          {
+          "id": 1,
+          "name": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/Crash91fr/Projet3_Bluel"
+          }
+        ]
+      },
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 4,
+            "title": "Kasa",
+            "img": "../images/project-4.png"
+          },
+          {
+            "id": 1,
+            "title": "Booki",
+            "img": "../images/project-1.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Nina Carducci - Photography",
+		  "category": "Web Application",
+		  "img": "../images/project-3.png",
+      "ProjectHeader": {
+        "title": "Debugging and optimizing a photographer's website",
+        "publishDate": "Jan 09, 2025",
+        "tags": "UI / Frontend"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Nina Carducci",
+          "img": "../images/project-3.png"
+        },
+        {
+          "id": 2,
+          "title": "Site Nina Carducci Details",
+          "img": "../images/project-33.png"
+        },
+        {
+          "id": 3,
+          "title": "Site Nina Carducci Details",
+          "img": "../images/project-333.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Optimize and debug a photographer’s website",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["JavaScript", "CSS"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "This project focused on improving the overall performance and SEO of a client's website. Initially, the site scored poorly across all categories in Google's Lighthouse report. Through extensive optimization and debugging, we elevated each metric to a perfect score of 100. The result was a fast, responsive, and bug-free website, with significant improvements in performance, SEO, and accessibility. By ensuring the site was accessible to users with impairments, we not only enhanced usability but also boosted visibility and customer satisfaction."
+          }
+        ],
+        "SocialSharingHeading": "Source Code",
+        "SocialSharing": [
+          {
+          "id": 1,
+          "name": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/Crash91fr/Projet4_Carducci"
+          }
+          ]
+      },
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 2,
+            "title": "Sophie Bluel",
+            "img": "../images/project-2.png"
+          },
+          {
+            "id": 4,
+            "title": "Kasa",
+            "img": "../images/project-4.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Kasa - Holidays Rental",
+		  "category": "Web & Mobile Application",
+		  "img": "../images/project-4.png",
+      "ProjectHeader": {
+        "title": "Use React & Vite to develop a responsive application for holiday accomodations booking",
+        "publishDate": "Jan 28, 2025",
+        "tags": "UI / Frontend"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Kasa",
+          "img": "../images/project-4.png"
+        },
+        {
+          "id": 2,
+          "title": "Kasa Mobile",
+          "img": "../images/project-44.png"
+        },
+        {
+          "id": 3,
+          "title": "Kasa Details",
+          "img": "../images/project-444.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Code a reactive, user-friendly website for desktops and mobiles for a holiday accommodation booking platform.",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["React", "Vite", "SCSS"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "In this project, we developed a dynamic and visually engaging website for a client using React, with Vite for fast and efficient project setup. Leveraging React’s component-based architecture allowed us to create a modular, maintainable, and high-performance application. SCSS was used for styling, resulting in a sleek, interactive, and polished user interface."
+          }
+        ],
+        "SocialSharingHeading": "Source Code",
+        "SocialSharing": [
+          {
+          "id": 1,
+          "name": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/Crash91fr/Projet5_Kasa"
+          }
+        ]
+      },
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 6,
+            "title": "Qwenta",
+            "img": "../images/project-6.png"
+          },
+          {
+            "id": 1,
+            "title": "Booki",
+            "img": "../images/project-1.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Mon Vieux Grimoire",
+		  "category": "Backend",
+		  "img": "../images/project-5.png",
+      "ProjectHeader": {
+        "title": "Developing the backend of a bookstore website using Node.js & Express",
+        "publishDate": "Feb 26, 2025",
+        "tags": "Backend"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Mon Vieux Grimoire",
+          "img": "../images/project-5.png"
+        },
+        {
+          "id": 2,
+          "title": "Site Mon Vieux Grimoire Details",
+          "img": "../images/project-55.png"
+        },
+        {
+          "id": 3,
+          "title": "Site Mon Vieux Grimoire Details",
+          "img": "../images/project-555.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Build the backend of a book review application.",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["Node.js", "Express", "MongoDB"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "This backend project focused on building a robust and secure RESTful API for a bookstore. Using Node.js with the Express.js framework, we connected the API to a MongoDB database to handle all CRUD operations triggered by the frontend. The result was a performant and reliable server, capable of efficiently managing user interactions and data flow."
+          }
+        ],
+        "SocialSharingHeading": "Source Code",
+        "SocialSharing": [
+          {
+          "id": 1,
+          "name": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/Crash91fr/Projet6_MonVieuxGrimoire"
+          }
+        ]
+      },
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 3,
+            "title": "Nina Carducci - Photography",
+            "img": "../images/project-3.png"
+          },
+          {
+            "id": 2,
+            "title": "Sophie Bluel",
+            "img": "../images/project-2.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Qwenta - Menu Maker",
+		  "category": "Project Management",
+		  "img":"../images/project-6.png",
+      "ProjectHeader": {
+        "title": "Manage a menu making application development project using Agile + Scrum methodology",
+        "publishDate": "Mar 28, 2025",
+        "tags": "Project Management"
+      },
+      "ProjectImages": [
+        {
+          "id": 1,
+          "title": "Site Qwenta",
+          "img": "../images/project-6.png"
+        },
+        {
+          "id": 2,
+          "title": "Site Qwenta Details",
+          "img": "../images/project-66.png"
+        },
+        {
+          "id": 3,
+          "title": "Site Qwenta Details",
+          "img": "../images/project-666.png"
+        }
+      ],
+      "ProjectInfo": {
+        "ObjectivesHeading": "Objective",
+        "ObjectivesDetails": "Manage the project using an Agile + Scrum approach methodology",
+        "Technologies": [
+          {
+            "title": "Tools & Technologies",
+            "techs": ["Agile", "Scrum", "Notion"]
+          }
+        ],
+        "ProjectDetailsHeading": "Challenge",
+        "ProjectDetails": [
+          {
+            "id": 1,
+            "details": "In this project, I took on the role of Product Owner to lead the delivery of a client application by the targeted launch date. Working with a team of front-end and back-end developers, we adopted an Agile approach with Scrum methodology. I created and maintained the development roadmap and technical specifications, organizing tasks through a Kanban board in Notion to ensure smooth communication, clear priorities, and an on-time go-live."
+          }
+        ]
+      },
+      "RelatedProject": {
+        "title": "Related Projects",
+        "Projects": [
+          {
+            "id": 4,
+            "title": "Kasa",
+            "img": "../images/project-4.png"
+          },
+          {
+            "id": 2,
+            "title": "Sophie Bluel - Interior Design",
+            "img": "../images/project-2.png"
+          }
+        ]
+      }
+    }
+]
