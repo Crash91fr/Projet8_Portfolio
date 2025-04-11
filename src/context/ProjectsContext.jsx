@@ -1,5 +1,4 @@
 import { useState, createContext } from 'react';
-//import { projectsData } from '../data/projects';
 import projectsData from '../data/projectsData.json'
 
 // Create projects context

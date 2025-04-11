@@ -12,7 +12,6 @@ const iconMap = {
 const ProjectInfo = () => {
   const { singleProjectData } = useContext(SingleProjectContext);
 
-  // Ensure the data exists before trying to render it
   const projectInfo = singleProjectData.ProjectInfo;
 
   return (
