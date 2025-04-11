@@ -12,20 +12,19 @@ const ProjectRelatedProjects = () => {
   
 		<div className="grid grid-cols-1 sm:grid-cols-4 gap-10">
 		  {singleProjectData.RelatedProject.Projects.map((project) => {
-			// Dynamically build the URL using the project ID
 			const projectUrl = `/projects/${project.id}`;
   
 			return (
 			  <a
-				href={projectUrl} // Use the dynamically built URL
-				target="_blank" // Opens the link in a new tab
-				rel="noopener noreferrer" // Security best practice
-				key={project.id} // Key for each project
+				href={projectUrl} 
+				target="_blank" 
+				rel="noopener noreferrer" 
+				key={project.id} 
 			  >
 				<img
-				  src={project.img} // The project image
+				  src={project.img} 
 				  className="rounded-xl cursor-pointer"
-				  alt={project.title} // Alt text for accessibility
+				  alt={project.title} 
 				/>
 			  </a>
 			);

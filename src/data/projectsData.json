@@ -49,7 +49,13 @@
         "name": "GitHub",
         "icon": "github",
         "url": "https://github.com/Crash91fr/Projet2_Booki"
-        }
+        },
+        {
+          "id": 2,
+          "name": "Website",
+          "icon": "globe",
+          "url": "https://crash91fr.github.io/Projet2_Booki/"
+          }
         ]
 			},
       "RelatedProject": {
@@ -59,6 +65,11 @@
             "id": 4,
             "title": "Kasa",
             "img": "../images/project-4.png"
+          },
+          {
+            "id": 2,
+            "title": "Sophie Bluel - Interior Design",
+            "img": "../images/project-2.png"
           }
         ]
       }
@@ -182,7 +193,13 @@
           "name": "GitHub",
           "icon": "github",
           "url": "https://github.com/Crash91fr/Projet4_Carducci"
-          }
+          },
+          {
+            "id": 2,
+            "name": "Website",
+            "icon": "globe",
+            "url": "https://crash91fr.github.io/Projet4_Carducci/"
+            }
           ]
       },
       "RelatedProject": {
