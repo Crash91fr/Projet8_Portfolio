@@ -176,6 +176,10 @@ select {
   text-transform: none;
 }
 
+select {
+  max-width: 120px;
+}
+
 /*
 1. Correct the inability to style clickable types in iOS and Safari.
 2. Remove default button styles.
@@ -1140,6 +1144,10 @@ Ensure the default browser behavior of the `hidden` attribute.
       max-width: 640px;
       padding-right: 2rem;
       padding-left: 2rem;
+    }    
+    
+    select {
+      max-width: 220px;
     }
   }
 
