@@ -2,11 +2,6 @@ import { motion } from 'framer-motion';
 import { FiX } from 'react-icons/fi';
 import Button from './reusable/Button';
 
-const selectOptions = [
-	'Web Application',
-	'Mobile Application',
-];
-
 const HireMeModal = ({ onClose, onRequest }) => {
 	return (
 		<motion.div
@@ -61,25 +56,6 @@ const HireMeModal = ({ onClose, onRequest }) => {
 										placeholder="Email"
 										aria-label="Email"
 									/>
-								</div>
-								<div className="mt-6">
-									<select
-										className="w-full px-5 py-2 border dark:border-secondary-dark rounded-md text-md bg-secondary-light dark:bg-ternary-dark text-primary-dark dark:text-ternary-light"
-										id="subject"
-										name="subject"
-										type="text"
-										required=""
-										aria-label="Project Category"
-									>
-										{selectOptions.map((option) => (
-											<option
-												className="text-normal sm:text-md"
-												key={option}
-											>
-												{option}
-											</option>
-										))}
-									</select>
 								</div>
 
 								<div className="mt-6">
