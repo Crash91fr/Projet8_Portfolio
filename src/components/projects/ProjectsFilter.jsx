@@ -9,7 +9,8 @@ const ProjectsFilter = ({ setSelectProject }) => {
 	return (
 		<select
 			onChange={(e) => {
-				setSelectProject(e.target.value);
+				const value = e.target.value;
+				setSelectProject(value === 'all' ? null : value)
 			}}
 			className="font-general-medium 
                 px-4
@@ -24,10 +25,9 @@ const ProjectsFilter = ({ setSelectProject }) => {
                 bg-secondary-light
                 dark:bg-ternary-dark
                 text-primary-dark
-                dark:text-ternary-light
-            "
+                dark:text-ternary-light"
 		>
-			<option value={setSelectProject} className="text-sm sm:text-md">
+			<option value="all" className="text-sm sm:text-md">
 				All Projects
 			</option>
 
