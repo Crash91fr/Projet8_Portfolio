@@ -9,7 +9,7 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGlobe />,
-		url: 'https://www.crash.me/',
+		url: 'https://crash91.vercel.app/',
 	},
 	{
 		id: 2,
