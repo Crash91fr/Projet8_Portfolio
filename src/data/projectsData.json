@@ -3,7 +3,7 @@
       "id": 1,
       "title": "Booki - Travel Agency",
 		  "category": "Web & Mobile Application",
-		  "img": "../images/project-1.png",
+		  "img": "../images/project-1.webp",
       "ProjectHeader": {
         "title": "Code a responsive application for a travel agency  using HTML & CSS",
         "publishDate": "Dec 03, 2024",
@@ -13,17 +13,17 @@
         {
           "id": 1,
           "title": "Site Booki",
-          "img": "../images/project-1.png"
+          "img": "../images/project-1.webp"
         },
         {
           "id": 2,
           "title": "Booki Mobile",
-          "img": "../images/project-11.png"
+          "img": "../images/project-11.webp"
         },
         {
           "id": 3,
           "title": "Booki Details",
-          "img": "../images/project-111.png"
+          "img": "../images/project-111.webp"
         }
       ],
       "ProjectInfo": {
@@ -64,12 +64,12 @@
           {
             "id": 4,
             "title": "Kasa",
-            "img": "../images/project-4.png"
+            "img": "../images/project-4.webp"
           },
           {
             "id": 2,
             "title": "Sophie Bluel - Interior Design",
-            "img": "../images/project-2.png"
+            "img": "../images/project-2.webp"
           }
         ]
       }
@@ -78,7 +78,7 @@
       "id": 2,
       "title": "Sophie Bluel - Interior Design",
 		  "category": "Web Application",
-		  "img": "../images/project-2.png",
+		  "img": "../images/project-2.webp",
       "ProjectHeader": {
         "title": "Build an interior designer portfolio in JavaScript",
         "publishDate": "Dec 20, 2024",
@@ -88,17 +88,17 @@
         {
           "id": 1,
           "title": "Site Sophie Bluel",
-          "img": "../images/project-2.png"
+          "img": "../images/project-2.webp"
         },
         {
           "id": 2,
           "title": "Site Sophie Bluel mode admin",
-          "img": "../images/project-22.png"
+          "img": "../images/project-22.webp"
         },
         {
           "id": 3,
           "title": "Site Sophie Bluel Details",
-          "img": "../images/project-222.png"
+          "img": "../images/project-222.webp"
         }
       ],
       "ProjectInfo": {
@@ -133,12 +133,12 @@
           {
             "id": 4,
             "title": "Kasa",
-            "img": "../images/project-4.png"
+            "img": "../images/project-4.webp"
           },
           {
             "id": 1,
             "title": "Booki",
-            "img": "../images/project-1.png"
+            "img": "../images/project-1.webp"
           }
         ]
       }
@@ -147,7 +147,7 @@
       "id": 3,
       "title": "Nina Carducci - Photography",
 		  "category": "Web Application",
-		  "img": "../images/project-3.png",
+		  "img": "../images/project-3.webp",
       "ProjectHeader": {
         "title": "Debugging and optimizing a photographer's website",
         "publishDate": "Jan 09, 2025",
@@ -157,17 +157,17 @@
         {
           "id": 1,
           "title": "Site Nina Carducci",
-          "img": "../images/project-3.png"
+          "img": "../images/project-3.webp"
         },
         {
           "id": 2,
           "title": "Site Nina Carducci Details",
-          "img": "../images/project-33.png"
+          "img": "../images/project-33.webp"
         },
         {
           "id": 3,
           "title": "Site Nina Carducci Details",
-          "img": "../images/project-333.png"
+          "img": "../images/project-333.webp"
         }
       ],
       "ProjectInfo": {
@@ -208,12 +208,12 @@
           {
             "id": 2,
             "title": "Sophie Bluel",
-            "img": "../images/project-2.png"
+            "img": "../images/project-2.webp"
           },
           {
             "id": 4,
             "title": "Kasa",
-            "img": "../images/project-4.png"
+            "img": "../images/project-4.webp"
           }
         ]
       }
@@ -222,7 +222,7 @@
       "id": 4,
       "title": "Kasa - Holidays Rental",
 		  "category": "Web & Mobile Application",
-		  "img": "../images/project-4.png",
+		  "img": "../images/project-4.webp",
       "ProjectHeader": {
         "title": "Use React & Vite to develop a responsive application for holiday accomodations booking",
         "publishDate": "Jan 28, 2025",
@@ -232,17 +232,17 @@
         {
           "id": 1,
           "title": "Site Kasa",
-          "img": "../images/project-4.png"
+          "img": "../images/project-4.webp"
         },
         {
           "id": 2,
           "title": "Kasa Mobile",
-          "img": "../images/project-44.png"
+          "img": "../images/project-44.webp"
         },
         {
           "id": 3,
           "title": "Kasa Details",
-          "img": "../images/project-444.png"
+          "img": "../images/project-444.webp"
         }
       ],
       "ProjectInfo": {
@@ -277,12 +277,12 @@
           {
             "id": 6,
             "title": "Qwenta",
-            "img": "../images/project-6.png"
+            "img": "../images/project-6.webp"
           },
           {
             "id": 1,
             "title": "Booki",
-            "img": "../images/project-1.png"
+            "img": "../images/project-1.webp"
           }
         ]
       }
@@ -291,7 +291,7 @@
       "id": 5,
       "title": "Mon Vieux Grimoire",
 		  "category": "Backend",
-		  "img": "../images/project-5.png",
+		  "img": "../images/project-5.webp",
       "ProjectHeader": {
         "title": "Developing the backend of a bookstore website using Node.js & Express",
         "publishDate": "Feb 26, 2025",
@@ -301,17 +301,17 @@
         {
           "id": 1,
           "title": "Site Mon Vieux Grimoire",
-          "img": "../images/project-5.png"
+          "img": "../images/project-5.webp"
         },
         {
           "id": 2,
           "title": "Site Mon Vieux Grimoire Details",
-          "img": "../images/project-55.png"
+          "img": "../images/project-55.webp"
         },
         {
           "id": 3,
           "title": "Site Mon Vieux Grimoire Details",
-          "img": "../images/project-555.png"
+          "img": "../images/project-555.webp"
         }
       ],
       "ProjectInfo": {
@@ -346,12 +346,12 @@
           {
             "id": 3,
             "title": "Nina Carducci - Photography",
-            "img": "../images/project-3.png"
+            "img": "../images/project-3.webp"
           },
           {
             "id": 2,
             "title": "Sophie Bluel",
-            "img": "../images/project-2.png"
+            "img": "../images/project-2.webp"
           }
         ]
       }
@@ -360,7 +360,7 @@
       "id": 6,
       "title": "Qwenta - Menu Maker",
 		  "category": "Project Management",
-		  "img":"../images/project-6.png",
+		  "img":"../images/project-6.webp",
       "ProjectHeader": {
         "title": "Manage a menu making application development project using Agile + Scrum methodology",
         "publishDate": "Mar 28, 2025",
@@ -370,17 +370,17 @@
         {
           "id": 1,
           "title": "Site Qwenta",
-          "img": "../images/project-6.png"
+          "img": "../images/project-6.webp"
         },
         {
           "id": 2,
           "title": "Site Qwenta Details",
-          "img": "../images/project-66.png"
+          "img": "../images/project-66.webp"
         },
         {
           "id": 3,
           "title": "Site Qwenta Details",
-          "img": "../images/project-666.png"
+          "img": "../images/project-666.webp"
         }
       ],
       "ProjectInfo": {
@@ -398,6 +398,15 @@
             "id": 1,
             "details": "In this project, I took on the role of Product Owner to lead the delivery of a client application by the targeted launch date. Working with a team of front-end and back-end developers, we adopted an Agile approach with Scrum methodology. I created and maintained the development roadmap and technical specifications, organizing tasks through a Kanban board in Notion to ensure smooth communication, clear priorities, and an on-time go-live."
           }
+        ],
+        "SocialSharingHeading": "Source Code",
+        "SocialSharing": [
+          {
+          "id": 1,
+          "name": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/Crash91fr/"
+          }
         ]
       },
       "RelatedProject": {
@@ -406,12 +415,12 @@
           {
             "id": 4,
             "title": "Kasa",
-            "img": "../images/project-4.png"
+            "img": "../images/project-4.webp"
           },
           {
             "id": 2,
             "title": "Sophie Bluel - Interior Design",
-            "img": "../images/project-2.png"
+            "img": "../images/project-2.webp"
           }
         ]
       }
